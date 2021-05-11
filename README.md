@@ -2,7 +2,7 @@
 
 ### Fordításhoz szükséges modellek és textúrák
 
-[dat.zip](https://onedrive.live.com/?authkey=%21AEPY00OgkUMrMIw&cid=F1F555A95CF2EF9F&id=F1F555A95CF2EF9F%21378&parId=root&o=OneUp)
+[data.zip](https://onedrive.live.com/?authkey=%21AEPY00OgkUMrMIw&cid=F1F555A95CF2EF9F&id=F1F555A95CF2EF9F%21378&parId=root&o=OneUp)
 
 ### Fordítás
 
