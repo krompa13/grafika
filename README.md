@@ -1,5 +1,9 @@
 # Számítógépi grafika beadandó feladat
 
+A program elindítása után egy szobába kerülünk.A szobában a W A S D billentyűk segítségével tudunk mozogni.A kamerát fel és le is tudjuk mozgatni a SPACE és C billentyűvel.A fényerősséget a +,- billentyűkkel tudjuk állítani.
+A szobából kinézve egy ablakon át egy new yorki városképet láthatunk. A szobában található 6 ajtó 3 szék és 2 asztal. A székeket az X gomb segítségével tudjuk mozgatni, Q és E billentyűkkel pedig forgatni is tudjuk. F1 billentyű lenyomása után a help menüt tudjuk előhívni.
+
+
 ### Fordításhoz szükséges modellek és textúrák
 
 [data.zip](https://onedrive.live.com/?authkey=%21AEPY00OgkUMrMIw&cid=F1F555A95CF2EF9F&id=F1F555A95CF2EF9F%21378&parId=root&o=OneUp)
