@@ -1,7 +1,7 @@
 # Számítógépi grafika beadandó feladat
 
 A program elindítása után egy new yorki folyosóba kerülünk.A folyosóban a W A S D billentyűk segítségével tudunk mozogni.A kamerát fel és le is tudjuk mozgatni a SPACE és C billentyűvel.A fényerősséget a +,- billentyűkkel tudjuk állítani.
-A folyosóból kinézve egy ablakon át egy new yorki városképet láthatunk. A szobában található 6 ajtó, 3 szék, 2 asztal és egy ventillátor. A székeket az X gomb segítségével tudjuk mozgatni, Q és E billentyűkkel pedig forgatni is tudjuk. F1 billentyű lenyomása után a help menüt tudjuk előhívni.
+A folyosóból kinézve egy ablakon át egy new yorki városképet láthatunk. A szobában található 6 ajtó, 3 szék, 2 asztal és egy mozgó ventillátor. A székeket az X gomb segítségével tudjuk mozgatni, Q és E billentyűkkel pedig forgatni is tudjuk. F1 billentyű lenyomása után a help menüt tudjuk előhívni.
 
 
 ### Fordításhoz szükséges modellek és textúrák
